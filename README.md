@@ -27,3 +27,8 @@ Perf board
 Soldering Kit
 
 9V batteries
+
+
+# CIRCUIT DIAGRAM :
+
+![Receiver-circuit-diagram-of-arduino-based-blind-stick-project](https://github.com/user-attachments/assets/ace528e4-7972-4021-b15e-a9b8d3e392fe)
